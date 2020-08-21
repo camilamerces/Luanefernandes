@@ -1,7 +1,7 @@
 <h4>My name is Luane, I'm a fullstack developer. Welcome to my portfolio!<br></h4>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="400" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanefernandes&layout=compact" width="400" height="200">
 <p>
 
 <h3>What do I do?</h3>
